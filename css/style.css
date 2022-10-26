@@ -1,1 +1,5 @@
-
+body {
+    background-color: aquamarine;
+    font-size: larger;
+    border: 1em;
+}
