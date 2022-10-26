@@ -1,13 +1,60 @@
 body {
     
     
-    background-color: rgb(120, 217, 184);
+    background-color: rgb(120, 217, 255);
     font-size: larger;
     font-family: 'Bebas Neue', cursive;
     color: aquamarine;
     border: 3em;
     border-color: rgb(55, 55, 107);
     background-color: black;
+    margin-left: 3em;
+    margin-top: 0.5em;
 
+    border:1px solid white;
+    margin:3em;
+    padding:3em;
+
+}
+
+h1 {
+    font-size: 160pt;
+    margin:0px;
+    line-height:80%;
+}
+
+h2 {
+    font-size: 28pt;
+}
+
+p {
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.box {
+    width: 25rem;
+    border: 1px solid rgb(20, 217, 255) ;
+    margin-right: 3 em;
+    padding: 2em ;
+    margin-bottom: 0px;
+  }
+
+a {
+    font-size: 20pt;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+a:visited {
+    color:orange;
+}
+
+
+footer {
+
+    margin-top: 0px;
+    padding: 3em;
+    margin-bottom: 100px;
+    text-align:center;
 
 }
