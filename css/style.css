@@ -1,8 +1,13 @@
 body {
-    background-color: aquamarine;
+    
+    
+    background-color: rgb(120, 217, 184);
     font-size: larger;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    border: 1em;
+    font-family: 'Bebas Neue', cursive;
+    color: aquamarine;
+    border: 3em;
+    border-color: rgb(55, 55, 107);
+    background-color: black;
 
 
 }
